@@ -1,0 +1,4 @@
+___this is new file that has been added from GIT BASH...
+---newLinE---
+
+***FOR_Commit***
